@@ -1,0 +1,8 @@
+{
+Name: AI Fortune Teller;
+Description: You can have an button that then shows an fortune on an TMPro Text;
+Requirements: Groq API Key (https://console.groq.com/keys);
+Creators: Keo.CS;
+Tutorial: https://www.youtube.com/watch?v=VeWTVpkOKiQ;
+VersionCode: 1;
+}
