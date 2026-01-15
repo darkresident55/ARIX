@@ -1,6 +1,7 @@
 {
 Name: Soundboard;
 Description: Play an sound when you click an button. Its all networked;
+RequiredLocomotion: none;
 Requirements: Photon;
 Creators: Keo.CS;
 Tutorial: https://www.youtube.com/watch?v=KAdf3nwzsdw;
