@@ -1,6 +1,7 @@
 {
 Name: NRBV;
 Description: Non Rigidbody Velocity is sometimes uses;
+RequiredLocomotion: none;
 Creators: Keo.CS;
 Tutorial: /;
 VersionCode: 1;
