@@ -1,6 +1,7 @@
 {
 Name: Reversed Gravity;
 Description: Click an button and rotate the gravity by 180°;
+RequiredLocomotion: none;
 Requirements: /;
 Creators: Keo.CS;
 Tutorial: https://www.youtube.com/watch?v=evRi005dNEs;
